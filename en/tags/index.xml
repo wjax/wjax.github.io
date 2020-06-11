@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Engineer&#39;s drawer</title>
+    <link>https://wjax.github.io/en/tags/</link>
+    <description>Recent content in Tags on Engineer&#39;s drawer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 12 Jun 2020 01:29:15 +0200</lastBuildDate>
+    
+	<atom:link href="https://wjax.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>untagged</title>
+      <link>https://wjax.github.io/en/tags/untagged/</link>
+      <pubDate>Fri, 12 Jun 2020 01:29:15 +0200</pubDate>
+      
+      <guid>https://wjax.github.io/en/tags/untagged/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

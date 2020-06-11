@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Engineer&#39;s drawer</title>
+        <link>https://wjax.github.io/en/posts/</link>
+        <description>Recent content in Posts on Engineer&#39;s drawer</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Fri, 12 Jun 2020 01:29:15 +0200</lastBuildDate>
+        <atom:link href="https://wjax.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>First Entry</title>
+            <link>https://wjax.github.io/en/posts/2020/06/first-entry/</link>
+            <pubDate>Fri, 12 Jun 2020 01:29:15 +0200</pubDate>
+            
+            <guid>https://wjax.github.io/en/posts/2020/06/first-entry/</guid>
+            <description>This is the first dummy post. It will be removed when more content is added. Just for testing.</description>
+            <content type="html"><![CDATA[<p>This is the first dummy post. It will be removed when more content is added. Just for testing.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
