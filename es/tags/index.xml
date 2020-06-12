@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Cajón de un ingeniero</title>
+    <link>https://wjax.github.io/es/tags/</link>
+    <description>Recent content in Tags on Cajón de un ingeniero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 12 Jun 2020 01:29:11 +0200</lastBuildDate>
+    
+	<atom:link href="https://wjax.github.io/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>untagged</title>
+      <link>https://wjax.github.io/es/tags/untagged/</link>
+      <pubDate>Fri, 12 Jun 2020 01:29:11 +0200</pubDate>
+      
+      <guid>https://wjax.github.io/es/tags/untagged/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

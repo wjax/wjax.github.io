@@ -3,119 +3,119 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wjax.github.io/en/</loc>
+    <loc>https://wjax.github.io/</loc>
     <lastmod>2020-06-12T01:29:15+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="https://wjax.github.io/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://wjax.github.io/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wjax.github.io/en/"
-                />
   </url>
   
   <url>
-    <loc>https://wjax.github.io/en/posts/2020/06/first-entry/</loc>
+    <loc>https://wjax.github.io/posts/2020/06/first-entry/</loc>
     <lastmod>2020-06-12T01:29:15+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://wjax.github.io/posts/2020/06/primera-entrada/"
+                href="https://wjax.github.io/es/posts/2020/06/primera-entrada/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wjax.github.io/en/posts/2020/06/first-entry/"
+                href="https://wjax.github.io/posts/2020/06/first-entry/"
                 />
   </url>
   
   <url>
-    <loc>https://wjax.github.io/en/posts/</loc>
+    <loc>https://wjax.github.io/posts/</loc>
     <lastmod>2020-06-12T01:29:15+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="https://wjax.github.io/es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://wjax.github.io/posts/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wjax.github.io/en/posts/"
-                />
   </url>
   
   <url>
-    <loc>https://wjax.github.io/en/tags/</loc>
+    <loc>https://wjax.github.io/tags/</loc>
     <lastmod>2020-06-12T01:29:15+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="https://wjax.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://wjax.github.io/tags/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wjax.github.io/en/tags/"
-                />
   </url>
   
   <url>
-    <loc>https://wjax.github.io/en/tags/untagged/</loc>
+    <loc>https://wjax.github.io/tags/untagged/</loc>
     <lastmod>2020-06-12T01:29:15+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="https://wjax.github.io/es/tags/untagged/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://wjax.github.io/tags/untagged/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wjax.github.io/en/tags/untagged/"
-                />
   </url>
   
   <url>
-    <loc>https://wjax.github.io/en/about/</loc>
+    <loc>https://wjax.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://wjax.github.io/acerca/"
+                href="https://wjax.github.io/es/acerca/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wjax.github.io/en/about/"
+                href="https://wjax.github.io/about/"
                 />
   </url>
   
   <url>
-    <loc>https://wjax.github.io/en/categories/</loc>
+    <loc>https://wjax.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="https://wjax.github.io/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://wjax.github.io/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wjax.github.io/en/categories/"
-                />
   </url>
   
   <url>
-    <loc>https://wjax.github.io/en/series/</loc>
+    <loc>https://wjax.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://wjax.github.io/series/"
+                href="https://wjax.github.io/es/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wjax.github.io/en/series/"
+                href="https://wjax.github.io/series/"
                 />
   </url>
   

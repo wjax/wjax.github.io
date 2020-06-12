@@ -1,21 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Cajón de ingeniería</title>
+        <title>Posts on An engineer&#39;s drawer</title>
         <link>https://wjax.github.io/posts/</link>
-        <description>Recent content in Posts on Cajón de ingeniería</description>
+        <description>Recent content in Posts on An engineer&#39;s drawer</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>es</language>
-        <lastBuildDate>Fri, 12 Jun 2020 01:29:11 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2020 01:29:15 +0200</lastBuildDate>
         <atom:link href="https://wjax.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>Primera entrada</title>
-            <link>https://wjax.github.io/posts/2020/06/primera-entrada/</link>
-            <pubDate>Fri, 12 Jun 2020 01:29:11 +0200</pubDate>
+            <title>First Entry</title>
+            <link>https://wjax.github.io/posts/2020/06/first-entry/</link>
+            <pubDate>Fri, 12 Jun 2020 01:29:15 +0200</pubDate>
             
-            <guid>https://wjax.github.io/posts/2020/06/primera-entrada/</guid>
-            <description>Este es el primer post de prueba. Se borrará cuando se añada el primer post con contenido.</description>
-            <content type="html"><![CDATA[<p>Este es el primer post de prueba. Se borrará cuando se añada el primer post con contenido.</p>
+            <guid>https://wjax.github.io/posts/2020/06/first-entry/</guid>
+            <description>This is the first dummy post. It will be removed when more content is added. Just for testing.</description>
+            <content type="html"><![CDATA[<p>This is the first dummy post. It will be removed when more content is added. Just for testing.</p>
 ]]></content>
         </item>
         
