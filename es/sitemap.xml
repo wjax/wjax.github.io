@@ -78,7 +78,7 @@
   </url>
   
   <url>
-    <loc>https://wjax.github.io/about/</loc>
+    <loc>https://wjax.github.io/acerca/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -87,7 +87,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://wjax.github.io/about/"
+                href="https://wjax.github.io/acerca/"
                 />
   </url>
   
